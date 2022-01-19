@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamsharma00 (My name is Shivam Sharma.)
+- 👋 Hi, My name is Shivam Sharma.
 - I am a student of Arizona State University and enrolled in Robotics and Autonomous System (Artificial Intelligence).
 - 👀 I’m big AI geek and like to updated with current science advancements.
 - 🌱 Apart from this, when I am away from my system, most probably I am watering my plants.
